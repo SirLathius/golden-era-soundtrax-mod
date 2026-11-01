@@ -1,10 +1,10 @@
 # Golden Era Soundtrax Mod
 
-[Your description here: what the mod is, in your words.]
+Adds the soundtracks of NFS Underground, Most Wanted and Carbon to Underground 2, extends the EA Trax interface with new songs and features.
 
-[Your sentence on how it was made, for the AI disclosure the mod page requires.]
+Designed, checked and tested by Lathius; the code and documentation were written using an AI assistant.
 
-Download and mod page: [the NFSMods page link]
+ https://mega.nz/file/lNUE1IRL#RydHxImeB12CkEIwIILS8wPW0CWWRNIjKcBVCJ4edvE
 
 ## Files
 
