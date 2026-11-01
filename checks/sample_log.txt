@@ -1,0 +1,38 @@
+12:04:31 Golden Era Soundtrax 1.0 (UG2Music.asi) started on 2026-10-31.
+12:04:31 Loaded from C:\Games\NFS Underground 2\scripts.
+12:04:31 The game: speed2.exe, 4,800,512 bytes (the retail v1.2 size).
+12:04:31 The song archive: SDATA\sdat.viv, 893,398,656 bytes (the mod's archive).
+12:04:31 UG2's song table: 27 of 27 songs as expected.
+12:04:31 Song names: 27 titles, 3 albums and 1 artist line set.
+12:04:31 Random draw: UG2's own, checked.
+12:04:31 Song picker: installed.
+12:04:31 Long-song fix: installed.
+12:04:31 Settings folder: C:\Games\NFS Underground 2\scripts\UG2Music (found).
+12:04:31 Profile 'No Profile': no settings file yet - the defaults (soundtrack Underground 2). The file is made at the first save.
+12:04:31 EA Trax top bar: installed.
+12:04:31 Row text shift: installed.
+12:04:31 EA Trax list: installed.
+12:04:31 Saving with the profile: installed.
+12:04:31 Save prompt: installed.
+12:04:31 Shuffle button: installed.
+12:04:31 Default button: installed.
+12:04:31 Ready: 9 of 9 parts installed.
+12:04:40 Profile 'Player1': no settings file yet - the defaults (soundtrack Underground 2). The file is made at the first save.
+12:04:41 The music map is loaded: 126 song entries, as the mod expects (music stream buffer 190,047 bytes).
+12:04:41 Now playing (menu): UG2's own pick (Underground 2).
+12:05:02 EA Trax opened: Underground 2, 27 songs.
+12:05:05 Soundtrack: Underground 2 -> Most Wanted.
+12:05:09 Song setting: Most Wanted 4 Hand Of Blood, Racing -> All (in Most Wanted).
+12:05:12 Preview: Most Wanted 4 Hand Of Blood.
+12:05:15 Shuffle: On -> Off.
+12:05:16 Shuffle: Off -> On.
+12:05:20 Default: asked to reset the Most Wanted songs.
+12:05:22 Default: No - nothing changed.
+12:05:25 Default: asked to reset the Most Wanted songs.
+12:05:27 Default: Yes - the Most Wanted songs are back to their defaults (1 changed).
+12:05:33 Song setting: Most Wanted 14 Shapeshifter, All -> Off (in Most Wanted).
+12:05:40 Leaving EA Trax: the song settings changed, so the game asks to save.
+12:05:42 The game saved profile 'Player1': song settings written to UG2Music\Player1.txt (51 bytes, 1 songs set, soundtrack Most Wanted).
+12:05:44 Now playing (menu): Most Wanted 1 Fired Up - Most Wanted, shuffle on.
+12:06:30 Now playing (race): Most Wanted 4 Hand Of Blood - Most Wanted, shuffle on.
+12:08:10 Long song: Most Wanted 4 Hand Of Blood - its length was corrected to 5:55.

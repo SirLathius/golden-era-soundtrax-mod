@@ -1,0 +1,34 @@
+12:04:31 Golden Era Soundtrax 1.0 (UG2Music.asi) started on 2026-10-31.
+12:04:31 The previous log could NOT be moved to UG2Music.previous.log (Windows error 32): this start's lines follow the old ones.
+12:04:31 Loaded from C:\Games\NFS Underground 2\scripts.
+12:04:31 The game: speed2.exe, 4,800,000 bytes - NOT the retail v1.2 size (4,800,512 bytes). Each part below checks the game's code itself.
+12:04:31 The song archive: SDATA\sdat.viv, 259,484,480 bytes - UG2's original archive, NOT the mod's: only UG2's own songs can play.
+12:04:31 UG2's song table: song 26 is NOT UG2's own (its title reads 'Skeptic (Remix)'); the added songs cannot play: UG2 picks every song.
+12:04:31 UG2's song table: 26 of 27 songs as expected.
+12:04:31 Song name NOT set: the album of 'Determined' (it reads 'Lost', not UG2's own).
+12:04:31 Song names: 27 titles, 2 albums and 1 artist line set.
+12:04:31 Random draw: the game's code at 0x43BDF0 / 0x43C1C0 does NOT match (found 90 90 90 90 90 90 90 / 8B 0D 24 A6 7E 00): UG2 picks every song.
+12:04:31 Song picker: installed.
+12:04:31 Long-song fix NOT installed: the game's code at 0x727CD8 is not the retail exe's (found E9 00 10 00 00 E9 A7 00 00 00). 9 Most Wanted songs will not end.
+12:04:31 Settings folder C:\Games\NFS Underground 2\scripts\UG2Music could NOT be created (Windows error 5): song settings cannot be saved.
+12:04:31 EA Trax top bar NOT installed: the game's code at 0x5241E0 is not the retail exe's (found 90 90 90 90 90 90 90 90 90). The bar stays UG2's Random / Sequential; the list, Shuffle and Default need it.
+12:04:31 Row text shift NOT installed: it needs the EA Trax top bar.
+12:04:31 EA Trax list NOT installed: it needs the EA Trax top bar. The screen keeps UG2's 27 songs.
+12:04:31 Saving with the profile: a write to the game's code at 0x4D9CB3 FAILED (Windows error 998).
+12:04:31 Saving with the profile NOT fully installed: 1 of 4 writes FAILED (the lines above). Song settings may NOT be saved.
+12:04:31 Save prompt: installed.
+12:04:31 Shuffle button NOT installed: it needs the EA Trax top bar.
+12:04:31 Default button NOT installed: it needs the Shuffle button.
+12:04:31 Ready: 2 of 9 parts installed - see the lines above.
+12:04:40 Profile 'Player1': the settings file could NOT be opened (Windows error 5) - the defaults.
+12:04:40 The settings file's soundtrack line was NOT understood - Underground 2 is used.
+12:04:40 2 lines of the settings file were NOT understood - they are kept as they are.
+12:04:41 The music map was NOT found: the loaded music data is not the mod's (is the mod's SDATA\sdat.viv installed?). UG2 plays only its own songs.
+12:04:41 Song pick left to UG2: the music map is NOT found.
+12:04:41 The music stream buffer could NOT be made (the game's sound memory was full): no music will play.
+12:04:42 The profile name could NOT be read - the song settings in memory stay.
+12:05:02 EA Trax: the top bar's text did NOT work: the screen has no text object for it. The bar keeps the words it had.
+12:05:12 Preview of Carbon 20 Joker And The Thief FAILED: the music map is NOT found.
+12:05:20 Default FAILED: the button's bar could not be read.
+12:05:42 The game saved, but the song settings were NOT written: the settings folder is missing.
+12:05:43 The game saved, but the song settings were NOT written: writing Player1.txt FAILED (Windows error 112).

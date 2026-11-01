@@ -1,0 +1,3 @@
+UG2Music settings 2
+soundtrack = MW
+MW 14 = OFF
